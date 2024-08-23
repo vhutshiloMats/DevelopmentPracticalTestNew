@@ -1,0 +1,165 @@
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\DevelopmentPracticalTest.dll.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\DevelopmentPracticalTest.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\DevelopmentPracticalTest.pdb
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\csc.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\csc.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\csc.rsp
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\csi.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\csi.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\csi.rsp
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.AppContext.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Collections.Immutable.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Console.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.IO.Compression.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.IO.FileSystem.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Net.Http.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Net.Sockets.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.ValueTuple.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Xml.XPath.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\vbc.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\vbc.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\vbc.rsp
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\VBCSCompiler.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\roslyn\VBCSCompiler.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\Antlr3.Runtime.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\EntityFramework.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\EntityFramework.SqlServer.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\Microsoft.Web.Infrastructure.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\Newtonsoft.Json.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Helpers.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Mvc.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Optimization.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Razor.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.WebPages.Deployment.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.WebPages.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.WebPages.Razor.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\WebGrease.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\EntityFramework.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\EntityFramework.SqlServer.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Helpers.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Mvc.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Optimization.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.Razor.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.WebPages.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.WebPages.Deployment.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\System.Web.WebPages.Razor.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\Newtonsoft.Json.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\Antlr3.Runtime.pdb
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\obj\Debug\DevelopmentPracticalTest.csproj.CoreCompileInputs.cache
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\obj\Debug\DevelopmentPracticalTest.csproj.CopyComplete
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\obj\Debug\DevelopmentPracticalTest.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\obj\Debug\DevelopmentPracticalTest.pdb
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\DevelopmentPracticalTest.dll.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\DevelopmentPracticalTest.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\DevelopmentPracticalTest.pdb
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\csc.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\csc.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\csc.rsp
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\csi.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\csi.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\csi.rsp
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.AppContext.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Collections.Immutable.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Console.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Globalization.Calendars.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.IO.Compression.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.IO.FileSystem.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Net.Http.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Net.Sockets.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Reflection.Metadata.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.ValueTuple.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Xml.XPath.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\vbc.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\vbc.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\vbc.rsp
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\VBCSCompiler.exe
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\roslyn\VBCSCompiler.exe.config
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\Antlr3.Runtime.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\EntityFramework.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\EntityFramework.SqlServer.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\Microsoft.Web.Infrastructure.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\Newtonsoft.Json.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Helpers.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Mvc.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Optimization.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Razor.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.WebPages.Deployment.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.WebPages.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.WebPages.Razor.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\WebGrease.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\EntityFramework.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\EntityFramework.SqlServer.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Helpers.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Mvc.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Optimization.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.Razor.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.WebPages.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.WebPages.Deployment.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\System.Web.WebPages.Razor.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\Newtonsoft.Json.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\Antlr3.Runtime.pdb
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\obj\Debug\DevelopmentPracticalTest.csproj.CoreCompileInputs.cache
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\obj\Debug\DevelopmentPracticalTest.csproj.CopyComplete
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\obj\Debug\DevelopmentPracticalTest.dll
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest - Copy (15)\obj\Debug\DevelopmentPracticalTest.pdb
+C:\DevelopmentPracticalTest\DevelopmentPracticalTest\obj\Debug\DevelopmentPracticalTest.csproj.AssemblyReference.cache
